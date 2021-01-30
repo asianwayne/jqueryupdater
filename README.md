@@ -2,7 +2,9 @@
 
 //jquery updater
 
-function abt_jquery_updater() {
+
+
+ function abt_jquery_updater() {
 	$ver = '3.5.1';
     $ver_core = $ver;
     $ver_migrate = '3.3.0';
